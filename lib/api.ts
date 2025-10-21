@@ -1,4 +1,4 @@
-import { CreateNote, Note } from "@/types/Note";
+import { CreateNote, Note } from "@/types/note";
 import axios from "axios";
 import type { AxiosResponse } from "axios";
 
